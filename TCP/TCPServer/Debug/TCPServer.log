@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  TCPServer.cpp
+d:\netdone\networkprogrammingcpp\tcp\tcpserver\tcpserver.cpp(69): error C4700: uninitialized local variable 'c2' used

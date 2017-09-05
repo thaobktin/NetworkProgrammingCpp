@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  BT3.cpp
+d:\netdone\networkprogrammingcpp\bt\bt3\bt3.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\netdone\networkprogrammingcpp\bt\bt3\bt3.cpp(31): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\netdone\networkprogrammingcpp\bt\bt3\bt3.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\netdone\networkprogrammingcpp\bt\bt3\bt3.cpp(50): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  Generating Code...
+  BT3.vcxproj -> D:\NetDone\NetworkProgrammingCpp\Debug\BT3.exe
+  BT3.vcxproj -> D:\NetDone\NetworkProgrammingCpp\Debug\BT3.pdb (Partial PDB)

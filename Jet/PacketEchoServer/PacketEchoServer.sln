@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PacketEchoServer", "PacketEchoServer.vcproj", "{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32Tools", "..\JetByteTools\Win32Tools\Win32Tools.vcproj", "{B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccProjectUniqueName0 = PacketEchoServer.vcproj
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = ..\\JetByteTools\\Win32Tools\\Win32Tools.vcproj
+		SccProjectName1 = \u0022$/Web\u0020Articles/SocketServers/EchoServer/JetByteTools/Win32Tools\u0022,\u0020AKAAAAAA
+		SccLocalPath1 = ..\\JetByteTools\\Win32Tools
+		CanCheckoutShared = false
+		SccProjectName2 = \u0022$/Web\u0020Articles/SocketServers/PacketEchoServer/PacketEchoServer\u0022,\u0020UKAAAAAA
+		SccLocalPath2 = .
+		SccProvider2 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SolutionUniqueID = {F3CA2DAB-9AA8-4FFA-88C6-9676C18662FF}
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+		ConfigName.2 = Unicode Debug
+		ConfigName.3 = Unicode Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+		{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}.0 = {B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}.Debug.ActiveCfg = Debug|Win32
+		{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}.Debug.Build.0 = Debug|Win32
+		{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}.Release.ActiveCfg = Release|Win32
+		{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}.Release.Build.0 = Release|Win32
+		{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}.Unicode Debug.ActiveCfg = Unicode Debug|Win32
+		{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}.Unicode Debug.Build.0 = Unicode Debug|Win32
+		{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}.Unicode Release.ActiveCfg = Unicode Release|Win32
+		{CBDA0828-F3E8-49BB-8392-4FF42BA1C3D6}.Unicode Release.Build.0 = Unicode Release|Win32
+		{B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}.Debug.ActiveCfg = Debug|Win32
+		{B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}.Debug.Build.0 = Debug|Win32
+		{B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}.Release.ActiveCfg = Release|Win32
+		{B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}.Release.Build.0 = Release|Win32
+		{B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}.Unicode Debug.ActiveCfg = Unicode Debug|Win32
+		{B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}.Unicode Debug.Build.0 = Unicode Debug|Win32
+		{B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}.Unicode Release.ActiveCfg = Unicode Release|Win32
+		{B48EFB0E-3CB0-40FB-B211-FA3B6A98F4D8}.Unicode Release.Build.0 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  WinSockServer.cpp
+d:\netdone\networkprogrammingcpp\winsock2\winsockserver\winsockserver.cpp(112): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\netdone\networkprogrammingcpp\winsock2\winsockserver\winsockserver.cpp(154): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\netdone\networkprogrammingcpp\winsock2\winsockserver\winsockserver.cpp(168): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+d:\netdone\networkprogrammingcpp\winsock2\winsockserver\winsockserver.cpp(180): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+  WinSockServer.vcxproj -> D:\NetDone\NetworkProgrammingCpp\Debug\WinSockServerSelect.exe
+  WinSockServer.vcxproj -> D:\NetDone\NetworkProgrammingCpp\Debug\WinSockServerSelect.pdb (Partial PDB)

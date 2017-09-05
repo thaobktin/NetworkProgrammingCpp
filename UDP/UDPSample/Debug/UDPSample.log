@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (UDP Sample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UDP Sample.cpp
+d:\netdone\networkprogrammingcpp\udp\udpsample\udp sample.cpp(16): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+  stdafx.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+  UDPSample.vcxproj -> D:\NetDone\NetworkProgrammingCpp\Debug\UDPSample.exe
+  UDPSample.vcxproj -> D:\NetDone\NetworkProgrammingCpp\Debug\UDPSample.pdb (Partial PDB)

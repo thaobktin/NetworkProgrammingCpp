@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  BT2.cpp
+d:\netdone\networkprogrammingcpp\bt\bt2\bt2.cpp(23): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1008): note: see declaration of 'wcstombs'
+d:\netdone\networkprogrammingcpp\bt\bt2\bt2.cpp(25): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1008): note: see declaration of 'wcstombs'
+d:\netdone\networkprogrammingcpp\bt\bt2\bt2.cpp(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\netdone\networkprogrammingcpp\bt\bt2\bt2.cpp(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+  BT2.vcxproj -> D:\NetDone\NetworkProgrammingCpp\Debug\BT2.exe
+  BT2.vcxproj -> D:\NetDone\NetworkProgrammingCpp\Debug\BT2.pdb (Partial PDB)

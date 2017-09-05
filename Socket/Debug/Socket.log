@@ -1,0 +1,81 @@
+﻿  stdafx.cpp
+  Socket.cpp
+  WSAEventSelect.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\WSAEventSelect.cpp': No such file or directory
+  WSAAsyncSelectServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\WSAAsyncSelectServer.cpp': No such file or directory
+  WSAAsyncSelectClient.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\WSAAsyncSelectClient.cpp': No such file or directory
+  WinSockThreadServer.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\WinSockThreadServer.cpp': No such file or directory
+  WinSockThreadClient.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\WinSockThreadClient.cpp': No such file or directory
+  UDP Server.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\UDP Server.cpp': No such file or directory
+  UDP Sample.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\UDP Sample.cpp': No such file or directory
+  TCPChatServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\TCPChatServer.cpp': No such file or directory
+  TCPChatClient.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\TCPChatClient.cpp': No such file or directory
+  TCP Thread.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\TCP Thread.cpp': No such file or directory
+  SocketHandle.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\SocketHandle.cpp': No such file or directory
+  SimpleTelnetServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\SimpleTelnetServer.cpp': No such file or directory
+  Server2.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\Server2.cpp': No such file or directory
+  server.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\server.cpp': No such file or directory
+  SelectTCPServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\SelectTCPServer.cpp': No such file or directory
+  SelectServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\SelectServer.cpp': No such file or directory
+  Select Example.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\Select Example.cpp': No such file or directory
+  SampleServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\SampleServer.cpp': No such file or directory
+  SampleClient.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\SampleClient.cpp': No such file or directory
+  Generating Code...
+  Compiling...
+  ReverseWord.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\ReverseWord.cpp': No such file or directory
+  Reverse.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\Reverse.cpp': No such file or directory
+  NonBlockingSocketServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\NonBlockingSocketServer.cpp': No such file or directory
+  NonBlockingSocketClient.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\NonBlockingSocketClient.cpp': No such file or directory
+  LTM_print.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\LTM_print.cpp': No such file or directory
+  HelloWorld.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\HelloWorld.cpp': No such file or directory
+  HelloThread.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\HelloThread.cpp': No such file or directory
+  HelloEvent.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\HelloEvent.cpp': No such file or directory
+  FileReceiver.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\FileReceiver.cpp': No such file or directory
+  FileClient.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\FileClient.cpp': No such file or directory
+  Client.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\Client.cpp': No such file or directory
+  BT3.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\BT3.cpp': No such file or directory
+  BT2.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\BT2.cpp': No such file or directory
+  BT1.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\BT1.cpp': No such file or directory
+  BlockingSocketServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\BlockingSocketServer.cpp': No such file or directory
+  BlockingSocketClient.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\BlockingSocketClient.cpp': No such file or directory
+  BlockingServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\BlockingServer.cpp': No such file or directory
+  BlockingChatServer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\NetworkProgramming\02.CnC++\BlockingChatServer.cpp': No such file or directory
+  Generating Code...
